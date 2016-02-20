@@ -1,11 +1,11 @@
-The Date Calculator
+###The Date Calculator
 
-Set up environment:
+Environment:
 - The following software will run in any machine which has NodeJS installed.
 
 How to run:
-- To run the app, simply type `npm start`
+- To run the app, simply type `npm start`.
 
 Testing:
-- Run `npm install -g mocha` before running the test cases
-- To run the tests, type `npm test`
+- Run `npm install -g mocha` before running the test cases.
+- To run the tests, type `npm test`.
