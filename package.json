@@ -1,0 +1,20 @@
+{
+  "name": "datecalculator",
+  "version": "1.0.0",
+  "description": "The calculator for the date nerds",
+  "main": "main.js",
+  "scripts": {
+    "start": "npm install && node main.js",
+    "test": "npm install && mocha tests.js"
+  },
+  "keywords": [
+    "calculator",
+    "date"
+  ],
+  "author": "Shailendra Pal",
+  "license": "ISC",
+  "dependencies": {
+    "moment": "^2.11.2",
+    "prompt": "^1.0.0"
+  }
+}
